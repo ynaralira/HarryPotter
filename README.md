@@ -1,6 +1,6 @@
 <h1> Projeto Harry Potter </h1>
 <p> foram inclusos áudios de alguns feitiços usados nos filmes em cada botão, foi usado Arrays nos sons e algumas animações em CSS.</p>
-# Tecnologias usadas
+<h2> Tecnologias usadas </h2>
 <p> HTML, CSS e JS </p>
 <br> Link do projeto: <a href="https://ynaralira.github.io/HarryPotter/">https://ynaralira.github.io/HarryPotter/</a>
 
