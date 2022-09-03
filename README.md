@@ -1,6 +1,6 @@
 # Projeto Harry Potter
 <p> foram inclusos áudios de alguns feitiços usados nos filmes em cada botão, foi usado Arrays nos sons e algumas animações em CSS.</p>
-## Tecnologias usadas
+# Tecnologias usadas
 <p> HTML, CSS e JS </p>
 <P> Link do projeto: </p> <a href=""></a>
 
