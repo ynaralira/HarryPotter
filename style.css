@@ -8,7 +8,7 @@
   body{
     color: white;
     font-family: 'Exo', sans-serif;
-    cursor: url('ic-varinha.png') , auto !important ;
+    cursor: url('./img/ic-varinha.png') , auto !important ;
     background-color: #131010;
   }
   .container{
